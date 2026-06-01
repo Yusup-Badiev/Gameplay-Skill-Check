@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="a8098c1a-f86e-11da-bd1a-00112444be1e">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fbb22cbd-2573-4c51-8250-cc9ac0308e0c" />
+        <field name="Name" type="NameTableFieldDefinition" value="Door_Guard" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ddc63801-e805-4622-93f1-4590c394642d" />
+        <field name="Strength" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Dexterity" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

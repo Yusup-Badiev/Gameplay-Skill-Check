@@ -1,0 +1,6 @@
+new entry "Door_Guard"
+type "Character"
+using "_Goblins"
+data "Strength" "1"
+data "Dexterity" "1"
+

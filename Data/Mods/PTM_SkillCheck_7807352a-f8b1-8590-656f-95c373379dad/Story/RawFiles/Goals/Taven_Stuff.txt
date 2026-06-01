@@ -1,0 +1,29 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+DB_Tav_Gob((CHARACTER)CINE_Goblins_Male_Guard_Tavern_000_924032b8-cfaa-4d08-8a08-c6a476c60545);
+KBSECTION
+IF
+UseFinished(_Player,PUZ_GEN_Button_C_Ringlock_A_000_df818bc4-aebe-4c1a-bf91-6c0638a50120, 1)
+AND
+IsLocked(DOOR_Dungeon_Shar_Temple_Door_Single_B_002_e2a5766c-6540-42fa-a7b1-cadfb596a93e, 1)
+THEN
+PROC_ItemUnlockAndOpen(DOOR_Dungeon_Shar_Temple_Door_Single_B_002_e2a5766c-6540-42fa-a7b1-cadfb596a93e);
+
+IF
+FlagSet((FLAG)TAVERN_fight_2d89ede4-57ed-2a8c-8247-3c1f69b9a7b8, _speaker, _dialog)
+AND
+DB_Tav_Gob(_goblin)
+THEN
+SetFaction(_goblin, (FACTION) Evil_4be9261a-e481-8d9d-3528-f36956a19b17);
+
+IF
+FlagSet((FLAG)TAVERN_DOOR_OPEN_eb394453-19e8-6988-e4cd-8ed6709efff3, _speaker, _dialog)
+AND
+IsLocked(DOOR_Dungeon_Shar_Temple_Door_Single_B_002_e2a5766c-6540-42fa-a7b1-cadfb596a93e, 1)
+THEN
+PROC_ItemUnlockAndOpen(DOOR_Dungeon_Shar_Temple_Door_Single_B_002_e2a5766c-6540-42fa-a7b1-cadfb596a93e);
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "__Start"
