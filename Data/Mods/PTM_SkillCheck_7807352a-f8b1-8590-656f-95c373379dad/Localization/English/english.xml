@@ -11,10 +11,10 @@
   <content contentuid="h966af950g5d37g06c0ge8f5gc80197f8e791" version="1">Goblin Door Guard</content>
   <content contentuid="h7a934085g6caag31dag7710g135acf59fd8a" version="1">WHAT DO YOU WANT?</content>
   <content contentuid="h0450706dg6b31gbb3fg3062gb52caa036f1c" version="1">Nothing&lt;br&gt;</content>
-  <content contentuid="hf184a196g573cg8d4fg1e7cga5423c95eaaa" version="5">hi</content>
-  <content contentuid="he64eac07gb3a7g60a2g9e77ge41ec694376f" version="5">hello</content>
-  <content contentuid="hacafa3dfg5bc1g468bg6de4g90c7ed2de71f" version="3">no</content>
-  <content contentuid="h24214195ga38fg1006g4316g7727b10594df" version="3">bye</content>
+  <content contentuid="hf184a196g573cg8d4fg1e7cga5423c95eaaa" version="6">hi</content>
+  <content contentuid="he64eac07gb3a7g60a2g9e77ge41ec694376f" version="6">hello</content>
+  <content contentuid="hacafa3dfg5bc1g468bg6de4g90c7ed2de71f" version="4">no</content>
+  <content contentuid="h24214195ga38fg1006g4316g7727b10594df" version="4">bye</content>
   <content contentuid="h9cd665ecgb1f2ge898g519cgd031b4b44088" version="1">hello</content>
   <content contentuid="hc3e4dddegdcd3g2b34g2c8dg50679424de4b" version="1">bye</content>
   <content contentuid="hd3f33a89g4f5bga22fg8320gc72ce9dafe14" version="1">no</content>
@@ -26,11 +26,11 @@
   <content contentuid="h429b942ag4514g9690g6cdag48248b91b4b4" version="6">wow ok, sry</content>
   <content contentuid="h9d42135fge9d6g9b63g796dgb61636e0a106" version="6">DRAW YOUR SWORD!</content>
   <content contentuid="h54f9dc54g64e5g83d4g31b4g2e8d92830c5f" version="4">OPEN THE DOOR! NOW!</content>
-  <content contentuid="h8d80c0b8g5ac0g5a12g7776g25cd80a27baf" version="7">Who are you and what do you want?</content>
-  <content contentuid="h356220f6g4f3cgfc14g19f4gbab285b9f751" version="7">Nothing</content>
-  <content contentuid="hcaf9ab7dg80d4g5368g0af4gec43f7bdcf61" version="7">FIGHT ME!</content>
-  <content contentuid="h72cc570bg41a9g923fg9c2bg6ed3f7040009" version="7"> LET ME IN!</content>
-  <content contentuid="hb96238fcg7acbg3eb3g027fg07cac95d4786" version="6">wow ok fine...</content>
-  <content contentuid="h80d4dd8eg4572gd9bcgd249g428362bee734" version="6">NO WAY!</content>
-  <content contentuid="h1ff82d4ag807cge0d5g3e18g0b64b5a3e104" version="2">What do you want now?</content>
+  <content contentuid="h8d80c0b8g5ac0g5a12g7776g25cd80a27baf" version="11">Who are you and what do you want?</content>
+  <content contentuid="h356220f6g4f3cgfc14g19f4gbab285b9f751" version="11">Nothing</content>
+  <content contentuid="hcaf9ab7dg80d4g5368g0af4gec43f7bdcf61" version="11">FIGHT ME!</content>
+  <content contentuid="h72cc570bg41a9g923fg9c2bg6ed3f7040009" version="11"> LET ME IN!</content>
+  <content contentuid="hb96238fcg7acbg3eb3g027fg07cac95d4786" version="10">wow ok fine...</content>
+  <content contentuid="h80d4dd8eg4572gd9bcgd249g428362bee734" version="10">NO WAY!</content>
+  <content contentuid="h1ff82d4ag807cge0d5g3e18g0b64b5a3e104" version="6">What do you want now?</content>
 </contentList>

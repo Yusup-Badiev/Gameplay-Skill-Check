@@ -59,7 +59,7 @@
                                                 "TagText" : {
                                                    "handle" : "hb96238fcg7acbg3eb3g027fg07cac95d4786",
                                                    "type" : "TranslatedString",
-                                                   "version" : 6
+                                                   "version" : 10
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -196,7 +196,9 @@
                                  {
                                     "flag" : [
                                        {
-                                          "UUID" : {"type" : "FixedString", "value" : "eb394453-19e8-6988-e4cd-8ed6709efff3"},"value" : {"type" : "bool", "value" : true}}
+                                          "UUID" : {"type" : "FixedString", "value" : "eb394453-19e8-6988-e4cd-8ed6709efff3"},"value" : {"type" : "bool", "value" : true}},
+                                       {
+                                          "UUID" : {"type" : "FixedString", "value" : "efa07027-c8fa-f6b2-2a80-96efec09cf57"},"value" : {"type" : "bool", "value" : true}}
                                     ],"type" : {"type" : "FixedString", "value" : "Global"}}
                               ]
                            }
@@ -231,7 +233,7 @@
                                                 "TagText" : {
                                                    "handle" : "h8d80c0b8g5ac0g5a12g7776g25cd80a27baf",
                                                    "type" : "TranslatedString",
-                                                   "version" : 7
+                                                   "version" : 11
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -477,7 +479,7 @@
                                                 "TagText" : {
                                                    "handle" : "h1ff82d4ag807cge0d5g3e18g0b64b5a3e104",
                                                    "type" : "TranslatedString",
-                                                   "version" : 2
+                                                   "version" : 6
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -721,7 +723,7 @@
                                                 "TagText" : {
                                                    "handle" : "h72cc570bg41a9g923fg9c2bg6ed3f7040009",
                                                    "type" : "TranslatedString",
-                                                   "version" : 7
+                                                   "version" : 11
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -739,7 +741,19 @@
                               "ValidatedHasValue" : {"type" : "bool", "value" : false}
                            }
                         ],
-                        "checkflags" : [ {} ],
+                        "checkflags" : [
+                           {
+                              "flaggroup" : [
+                                 {
+                                    "flag" : [
+                                       {
+                                          "UUID" : {"type" : "FixedString", "value" : "eb394453-19e8-6988-e4cd-8ed6709efff3"},"value" : {"type" : "bool", "value" : false}},
+                                       {
+                                          "UUID" : {"type" : "FixedString", "value" : "efa07027-c8fa-f6b2-2a80-96efec09cf57"},"value" : {"type" : "bool", "value" : false}}
+                                    ],"type" : {"type" : "FixedString", "value" : "Global"}}
+                              ]
+                           }
+                        ],
                         "children" : [
                            {
                               "child" : [
@@ -899,7 +913,7 @@
                                                 "TagText" : {
                                                    "handle" : "hcaf9ab7dg80d4g5368g0af4gec43f7bdcf61",
                                                    "type" : "TranslatedString",
-                                                   "version" : 7
+                                                   "version" : 11
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -1075,7 +1089,7 @@
                                                 "TagText" : {
                                                    "handle" : "h80d4dd8eg4572gd9bcgd249g428362bee734",
                                                    "type" : "TranslatedString",
-                                                   "version" : 6
+                                                   "version" : 10
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
@@ -1212,7 +1226,9 @@
                                  {
                                     "flag" : [
                                        {
-                                          "UUID" : {"type" : "FixedString", "value" : "2d89ede4-57ed-2a8c-8247-3c1f69b9a7b8"},"value" : {"type" : "bool", "value" : true}}
+                                          "UUID" : {"type" : "FixedString", "value" : "2d89ede4-57ed-2a8c-8247-3c1f69b9a7b8"},"value" : {"type" : "bool", "value" : true}},
+                                       {
+                                          "UUID" : {"type" : "FixedString", "value" : "efa07027-c8fa-f6b2-2a80-96efec09cf57"},"value" : {"type" : "bool", "value" : true}}
                                     ],"type" : {"type" : "FixedString", "value" : "Global"}}
                               ]
                            }
@@ -1247,7 +1263,7 @@
                                                 "TagText" : {
                                                    "handle" : "h356220f6g4f3cgfc14g19f4gbab285b9f751",
                                                    "type" : "TranslatedString",
-                                                   "version" : 7
+                                                   "version" : 11
                                                 },
                                                 "stub" : {"type" : "bool", "value" : true}
                                              }
